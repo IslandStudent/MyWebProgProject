@@ -63,7 +63,7 @@ export function RenderContent(){
    // ----------------RENDERING ABOUT SECTION-------------------//
    const aboutDetails = {
     myPhoto: 'profile.jpg',
-    aboutMeFirstPrgrph: `Hi! I'm Robin Latrell Leyco, an IT student with a passion for music and  technology. As a Music Performer, I enjoy expressing myself through melodies that inspire and connect with people. Music has always been a source of creativity and joy in my life.`,
+    aboutMeFirstPrgrph: `Hi! I'm Latrell Robin Leyco, an IT student with a passion for music and  technology. As a Music Performer, I enjoy expressing myself through melodies that inspire and connect with people. Music has always been a source of creativity and joy in my life.`,
     aboutMeSecondPrgrph: `Alongside my love for music, I am also a dedicated Web Developer, creating innovative and user-friendly digital experiences. Combining my creativity and technical skills, I aim to bring ideas to life and make a positive impact through my work.`
    }
 
