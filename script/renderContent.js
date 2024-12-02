@@ -4,7 +4,7 @@ export function RenderContent(){
   // ----------------RENDERING HOME SECTION-------------------//
   const homeDetails = {
     greetTxt: `Hello visitor, I'm`,
-    name: 'Robin Latrell Leyco',
+    name: 'Latrell Robin  Leyco',
     profilePhoto: 'profile.jpg',
     welcomeTxt: 'Welcome to my personal website.',
     fbLink: '',
